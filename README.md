@@ -1,0 +1,4 @@
+- 👋 Hi, I’m George, Front-End Developer.
+- 👀 I’m interested in Web and Mobile App Development.
+- 🌱 I’m currently learning Java/ Spring Boot.
+- 📫 You can reach me here: linkedin.com/in/george-bucurescu/
